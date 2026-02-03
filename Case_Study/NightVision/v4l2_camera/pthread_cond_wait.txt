@@ -1,0 +1,114 @@
+pthread_cond_wait called
+  cond: 0x56446cb74500
+  mutex: 0x56446cb74598
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x56446cb74500
+  mutex: 0x56446cb74598
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x56446cee8058
+  mutex: 0x56446cee8030
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0
+pthread_cond_wait called
+  cond: 0x77c358000bd8
+  mutex: 0x77c358000bb0

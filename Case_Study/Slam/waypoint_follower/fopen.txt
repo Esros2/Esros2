@@ -1,0 +1,3 @@
+from fopen
+name : /home/shivrajj/.ros/log/waypoint_follower_2320582_1756983638182.log
+mode : ab

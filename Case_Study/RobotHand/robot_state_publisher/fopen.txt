@@ -1,0 +1,3 @@
+from fopen
+name : /home/shivrajj/.ros/log/robot_state_publisher_4180_1757098129102.log
+mode : ab

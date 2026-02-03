@@ -1,0 +1,10 @@
+from fwrite: FILE*=0x6463515121a0, fd=3, path=/home/shivrajj/.ros/log/velocity_smoother_2375866_1756986531843.log
+from fwrite: FILE*=0x6463515121a0, fd=3, path=/home/shivrajj/.ros/log/velocity_smoother_2375866_1756986531843.log
+from fwrite: FILE*=0x6463515121a0, fd=3, path=/home/shivrajj/.ros/log/velocity_smoother_2375866_1756986531843.log
+from fwrite: FILE*=0x6463515121a0, fd=3, path=/home/shivrajj/.ros/log/velocity_smoother_2375866_1756986531843.log
+from fwrite: FILE*=0x6463515121a0, fd=3, path=/home/shivrajj/.ros/log/velocity_smoother_2375866_1756986531843.log
+from fwrite: FILE*=0x6463515121a0, fd=3, path=/home/shivrajj/.ros/log/velocity_smoother_2375866_1756986531843.log
+from fwrite: FILE*=0x6463515121a0, fd=3, path=/home/shivrajj/.ros/log/velocity_smoother_2375866_1756986531843.log
+from fwrite: FILE*=0x6463515121a0, fd=3, path=/home/shivrajj/.ros/log/velocity_smoother_2375866_1756986531843.log
+from fwrite: FILE*=0x6463515121a0, fd=3, path=/home/shivrajj/.ros/log/velocity_smoother_2375866_1756986531843.log
+from fwrite: FILE*=0x6463515121a0, fd=3, path=/home/shivrajj/.ros/log/velocity_smoother_2375866_1756986531843.log

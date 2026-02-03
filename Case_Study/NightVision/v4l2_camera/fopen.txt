@@ -1,0 +1,15 @@
+from fopen
+name : /home/shivrajj/.ros/log/v4l2_camera_node_686897_1769577800389.log
+mode : ab
+from fopen
+name : /home/shivrajj/Examples/DEFAULT_FASTRTPS_PROFILES.xml
+mode : rb
+from fopen
+name : /proc/meminfo
+mode : r
+from fopen
+name : /proc/sys/vm/nr_hugepages
+mode : r
+from fopen
+name : /sys/kernel/mm/transparent_hugepage/enabled
+mode : r

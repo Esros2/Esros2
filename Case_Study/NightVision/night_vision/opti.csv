@@ -1,0 +1,38 @@
+dlclose
+dlsym
+dlopen
+fclose
+fgets
+fopen
+fopen64
+fwrite
+mmap
+munmap
+read
+stat
+syscall
+
+
+
+=== Category counts ===
+File management: 12
+Device management: 7
+Process Control: 6
+Communication: 6
+Information maintenance: 2
+Protection: 1
+
+=== Per-function categories ===
+dlclose: File management, Process Control
+dlsym: File management, Process Control
+dlopen: File management, Process Control
+fclose: File management
+fgets: Communication, Device management, File management
+fopen: Communication, Device management, File management
+fopen64: Communication, Device management, File management
+fwrite: Communication, Device management, File management
+mmap: File management, Process Control
+munmap: Process Control
+read: Communication, Device management, File management
+stat: Device management, File management, Information maintenance
+syscall: Communication, Device management, File management, Information maintenance, Process Control, Protection

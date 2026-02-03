@@ -1,0 +1,2 @@
+/opt/ros/humble/share/slam_toolbox/package.xml
+/opt/ros/humble/share/slam_toolbox/solver_plugins.xml

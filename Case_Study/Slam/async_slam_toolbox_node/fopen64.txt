@@ -1,0 +1,9 @@
+from fopen64
+name : /opt/ros/humble/share/ament_index/resource_index/packages/slam_toolbox
+mode : r
+from fopen64
+name : /opt/ros/humble/share/ament_index/resource_index/slam_toolbox__pluginlib__plugin/slam_toolbox
+mode : r
+from fopen64
+name : /opt/ros/humble/share/ament_index/resource_index/packages/slam_toolbox
+mode : r

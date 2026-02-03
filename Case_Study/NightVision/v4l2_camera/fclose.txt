@@ -1,0 +1,8 @@
+from fclose: FILE*=0x56446ce13510, fd=16, path=/opt/ros/humble/share/ament_index/resource_index/packages/compressed_image_transport
+from fclose: FILE*=0x56446ce13510, fd=16, path=/opt/ros/humble/share/ament_index/resource_index/packages/compressed_depth_image_transport
+from fclose: FILE*=0x56446ce13510, fd=16, path=/opt/ros/humble/share/ament_index/resource_index/packages/image_transport
+from fclose: FILE*=0x56446ce2e260, fd=16, path=/opt/ros/humble/share/ament_index/resource_index/packages/theora_image_transport
+from fclose: FILE*=0x77c350000df0, fd=17, path=/proc/meminfo
+from fclose: FILE*=0x77c350000df0, fd=17, path=/proc/sys/vm/nr_hugepages
+from fclose: FILE*=0x77c350000df0, fd=17, path=/sys/kernel/mm/transparent_hugepage/enabled
+from fclose: FILE*=0x56446c586720, fd=3, path=/home/shivrajj/.ros/log/v4l2_camera_node_686897_1769577800389.log

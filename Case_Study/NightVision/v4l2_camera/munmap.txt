@@ -1,0 +1,64 @@
+munmap called
+  addr: 0x77c3aa81c000
+  length: 1052672
+  return: 0
+munmap called
+  addr: 0x77c3e7800000
+  length: 134217728
+  return: 0
+munmap called
+  addr: 0x77c3dee00000
+  length: 134217728
+  return: 0
+munmap called
+  addr: 0x77c3d6400000
+  length: 134217728
+  return: 0
+munmap called
+  addr: 0x77c3cda00000
+  length: 134217728
+  return: 0
+munmap called
+  addr: 0x77c3c5000000
+  length: 134217728
+  return: 0
+munmap called
+  addr: 0x77c3bc600000
+  length: 134217728
+  return: 0
+munmap called
+  addr: 0x77c3b3c00000
+  length: 134217728
+  return: 0
+munmap called
+  addr: 0x77c3ab200000
+  length: 134217728
+  return: 0
+munmap called
+  addr: 0x77c3a2800000
+  length: 134217728
+  return: 0
+munmap called
+  addr: 0x77c399e00000
+  length: 134217728
+  return: 0
+munmap called
+  addr: 0x77c391400000
+  length: 134217728
+  return: 0
+munmap called
+  addr: 0x77c388a00000
+  length: 134217728
+  return: 0
+munmap called
+  addr: 0x77c380000000
+  length: 134217728
+  return: 0
+munmap called
+  addr: 0x77c377600000
+  length: 134217728
+  return: 0
+munmap called
+  addr: 0x77c36f600000
+  length: 134217728
+  return: 0

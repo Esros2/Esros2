@@ -1,0 +1,14 @@
+from fwrite: FILE*=0x654e60fdb590, fd=3, path=/home/shivrajj/.ros/log/bt_navigator_2257704_1756980297011.log
+from fwrite: FILE*=0x654e60fdb590, fd=3, path=/home/shivrajj/.ros/log/bt_navigator_2257704_1756980297011.log
+from fwrite: FILE*=0x654e60fdb590, fd=3, path=/home/shivrajj/.ros/log/bt_navigator_2257704_1756980297011.log
+from fwrite: FILE*=0x654e60fdb590, fd=3, path=/home/shivrajj/.ros/log/bt_navigator_2257704_1756980297011.log
+from fwrite: FILE*=0x654e60fdb590, fd=3, path=/home/shivrajj/.ros/log/bt_navigator_2257704_1756980297011.log
+from fwrite: FILE*=0x654e60fdb590, fd=3, path=/home/shivrajj/.ros/log/bt_navigator_2257704_1756980297011.log
+from fwrite: FILE*=0x654e60fdb590, fd=3, path=/home/shivrajj/.ros/log/bt_navigator_2257704_1756980297011.log
+from fwrite: FILE*=0x654e60fdb590, fd=3, path=/home/shivrajj/.ros/log/bt_navigator_2257704_1756980297011.log
+from fwrite: FILE*=0x654e60fdb590, fd=3, path=/home/shivrajj/.ros/log/bt_navigator_2257704_1756980297011.log
+from fwrite: FILE*=0x654e60fdb590, fd=3, path=/home/shivrajj/.ros/log/bt_navigator_2257704_1756980297011.log
+from fwrite: FILE*=0x654e60fdb590, fd=3, path=/home/shivrajj/.ros/log/bt_navigator_2257704_1756980297011.log
+from fwrite: FILE*=0x654e60fdb590, fd=3, path=/home/shivrajj/.ros/log/bt_navigator_2257704_1756980297011.log
+from fwrite: FILE*=0x654e60fdb590, fd=3, path=/home/shivrajj/.ros/log/bt_navigator_2257704_1756980297011.log
+from fwrite: FILE*=0x654e60fdb590, fd=3, path=/home/shivrajj/.ros/log/bt_navigator_2257704_1756980297011.log

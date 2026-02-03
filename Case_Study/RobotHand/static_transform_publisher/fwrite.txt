@@ -1,0 +1,4 @@
+from fwrite
+from fwrite: FILE*=0x637a1c1cc680, fd=3, path=/home/shivrajj/.ros/log/static_transform_publisher_19211_1756535146548.log
+from fwrite
+from fwrite: FILE*=0x637a1c1cc680, fd=3, path=/home/shivrajj/.ros/log/static_transform_publisher_19211_1756535146548.log

@@ -1,0 +1,13 @@
+from fwrite: FILE*=0x5b8f79668ac0, fd=3, path=/home/shivrajj/.ros/log/smoother_server_2604213_1756999222158.log
+from fwrite: FILE*=0x5b8f79668ac0, fd=3, path=/home/shivrajj/.ros/log/smoother_server_2604213_1756999222158.log
+from fwrite: FILE*=0x5b8f79668ac0, fd=3, path=/home/shivrajj/.ros/log/smoother_server_2604213_1756999222158.log
+from fwrite: FILE*=0x5b8f79668ac0, fd=3, path=/home/shivrajj/.ros/log/smoother_server_2604213_1756999222158.log
+from fwrite: FILE*=0x5b8f79668ac0, fd=3, path=/home/shivrajj/.ros/log/smoother_server_2604213_1756999222158.log
+from fwrite: FILE*=0x5b8f79668ac0, fd=3, path=/home/shivrajj/.ros/log/smoother_server_2604213_1756999222158.log
+from fwrite: FILE*=0x5b8f79668ac0, fd=3, path=/home/shivrajj/.ros/log/smoother_server_2604213_1756999222158.log
+from fwrite: FILE*=0x5b8f79668ac0, fd=3, path=/home/shivrajj/.ros/log/smoother_server_2604213_1756999222158.log
+from fwrite: FILE*=0x5b8f79668ac0, fd=3, path=/home/shivrajj/.ros/log/smoother_server_2604213_1756999222158.log
+from fwrite: FILE*=0x5b8f79668ac0, fd=3, path=/home/shivrajj/.ros/log/smoother_server_2604213_1756999222158.log
+from fwrite: FILE*=0x5b8f79668ac0, fd=3, path=/home/shivrajj/.ros/log/smoother_server_2604213_1756999222158.log
+from fwrite: FILE*=0x5b8f79668ac0, fd=3, path=/home/shivrajj/.ros/log/smoother_server_2604213_1756999222158.log
+from fwrite: FILE*=0x5b8f79668ac0, fd=3, path=/home/shivrajj/.ros/log/smoother_server_2604213_1756999222158.log

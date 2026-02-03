@@ -1,0 +1,5 @@
+function , total rules
+fclose,4
+fopen,1
+fwrite,1
+syscall,1

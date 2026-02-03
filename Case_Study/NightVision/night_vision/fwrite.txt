@@ -1,0 +1,2 @@
+from fwrite: FILE*=0x5edbd9ee6720, fd=3, path=/home/shivrajj/.ros/log/night_vision_node_703398_1769603093584.log
+from fwrite: FILE*=0x5d21e7b7b720, fd=3, path=/home/shivrajj/.ros/log/night_vision_node_703759_1769603458752.log

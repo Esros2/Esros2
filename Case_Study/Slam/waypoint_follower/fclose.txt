@@ -1,0 +1,4 @@
+from fclose: FILE*=0x64258953ca40, fd=16, path=/opt/ros/humble/share/ament_index/resource_index/packages/nav2_waypoint_follower
+from fclose: FILE*=0x64258953ca40, fd=16, path=/opt/ros/humble/share/ament_index/resource_index/nav2_waypoint_follower__pluginlib__plugin/nav2_waypoint_follower
+from fclose: FILE*=0x6425895f6a30, fd=16, path=/opt/ros/humble/share/ament_index/resource_index/packages/nav2_waypoint_follower
+from fclose: FILE*=0x6425891f2b00, fd=3, path=/home/shivrajj/.ros/log/waypoint_follower_2320582_1756983638182.log

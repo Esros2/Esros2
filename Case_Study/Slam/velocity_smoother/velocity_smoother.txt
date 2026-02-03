@@ -1,0 +1,4 @@
+fputs
+fputc
+syscall
+fwrite

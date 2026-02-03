@@ -1,0 +1,2 @@
+pthread_mutexattr_destroy called
+  attr: 0x77c365fe8964

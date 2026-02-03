@@ -1,0 +1,16 @@
+fwrite
+dlopen
+syscall
+
+=== Category counts ===
+File management: 3
+Device management: 2
+Communication: 2
+Process Control: 2
+Protection: 1
+Information maintenance: 1
+
+=== Per-function categories ===
+fwrite: Communication, Device management, File management
+dlopen: File management, Process Control
+syscall: Communication, Device management, File management, Information maintenance, Process Control, Protection

@@ -1,0 +1,12 @@
+from fwrite: FILE*=0x6425891f2b00, fd=3, path=/home/shivrajj/.ros/log/waypoint_follower_2320582_1756983638182.log
+from fwrite: FILE*=0x6425891f2b00, fd=3, path=/home/shivrajj/.ros/log/waypoint_follower_2320582_1756983638182.log
+from fwrite: FILE*=0x6425891f2b00, fd=3, path=/home/shivrajj/.ros/log/waypoint_follower_2320582_1756983638182.log
+from fwrite: FILE*=0x6425891f2b00, fd=3, path=/home/shivrajj/.ros/log/waypoint_follower_2320582_1756983638182.log
+from fwrite: FILE*=0x6425891f2b00, fd=3, path=/home/shivrajj/.ros/log/waypoint_follower_2320582_1756983638182.log
+from fwrite: FILE*=0x6425891f2b00, fd=3, path=/home/shivrajj/.ros/log/waypoint_follower_2320582_1756983638182.log
+from fwrite: FILE*=0x6425891f2b00, fd=3, path=/home/shivrajj/.ros/log/waypoint_follower_2320582_1756983638182.log
+from fwrite: FILE*=0x6425891f2b00, fd=3, path=/home/shivrajj/.ros/log/waypoint_follower_2320582_1756983638182.log
+from fwrite: FILE*=0x6425891f2b00, fd=3, path=/home/shivrajj/.ros/log/waypoint_follower_2320582_1756983638182.log
+from fwrite: FILE*=0x6425891f2b00, fd=3, path=/home/shivrajj/.ros/log/waypoint_follower_2320582_1756983638182.log
+from fwrite: FILE*=0x6425891f2b00, fd=3, path=/home/shivrajj/.ros/log/waypoint_follower_2320582_1756983638182.log
+from fwrite: FILE*=0x6425891f2b00, fd=3, path=/home/shivrajj/.ros/log/waypoint_follower_2320582_1756983638182.log

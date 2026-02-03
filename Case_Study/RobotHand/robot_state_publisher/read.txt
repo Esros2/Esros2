@@ -1,0 +1,5 @@
+read(fd=16, count=8191) -> /opt/ros/humble/share/ament_index/resource_index/packages/urdf_parser_plugin
+read(fd=16, count=8191) -> /opt/ros/humble/share/ament_index/resource_index/urdf_parser_plugin__pluginlib__plugin/sdformat_urdf
+read(fd=16, count=8191) -> /opt/ros/humble/share/ament_index/resource_index/urdf_parser_plugin__pluginlib__plugin/urdf
+read(fd=16, count=8191) -> /opt/ros/humble/share/ament_index/resource_index/packages/sdformat_urdf
+read(fd=16, count=8191) -> /opt/ros/humble/share/ament_index/resource_index/packages/urdf

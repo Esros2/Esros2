@@ -1,0 +1,4 @@
+read(fd=21, count=8191) -> /sys/devices/system/cpu/online
+read(fd=21, count=8191) -> /sys/devices/system/cpu/online
+read(fd=21, count=8191) -> /sys/devices/system/cpu/online
+read(fd=21, count=8191) -> /sys/devices/system/cpu/online

@@ -1,0 +1,3265 @@
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb66fc0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbf91a0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b4b0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+pthread_cond_broadcast called
+  cond : 0x56446cb6b4b0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc04c58
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+pthread_cond_broadcast called
+  cond : 0x56446cc04c58
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc04c58
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc04c58
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc04c58
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc04c58
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc04c58
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b4b0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b4b0
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+pthread_cond_broadcast called
+  cond : 0x56446cc04c58
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbf6ec0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbf6ec0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc04c58
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cce0b98
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ce0a5c0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b4b0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b4b0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+pthread_cond_broadcast called
+  cond : 0x56446cc04c58
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbf6ec0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbf6ec0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbf6ec0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbf6ec0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbf6ec0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbf6ec0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbf6ec0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbf6ec0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cce0b98
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cce0b98
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cce0b98
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cce0b98
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cea22f8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cea22f8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cea22f8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cea22f8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cea22f8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cea22f8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cea22f8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cea22f8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cea22f8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cea22f8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cea22f8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cea22f8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cea22f8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cea22f8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cea22f8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cea22f8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cea22f8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cea22f8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cea22f8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cea22f8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cea22f8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446caa1868
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc04c58
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc04c58
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc04c58
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cdfbb48
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc04c58
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc04c58
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc04c58
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc04c58
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc04c58
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc04c58
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ccac700
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc04c58
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cc55fa8
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbfe158
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b168
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cbf91a0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b278
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446ca44b60
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb75c00
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76520
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb76c20
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b4b0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------
+pthread_cond_broadcast called
+  cond : 0x56446cb6b4b0
+  return : 0
+  result : all waiting threads woken up
+-----------------------------

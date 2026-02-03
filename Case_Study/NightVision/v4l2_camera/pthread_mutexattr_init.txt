@@ -1,0 +1,3 @@
+pthread_mutexattr_init called
+  attr: 0x77c365fe8964
+  return: 0

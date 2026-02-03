@@ -1,0 +1,48 @@
+In the context of ROS 2 and executors, a callback refers to a function whose scheduling and execution are managed by an executor. Typical examples include subscription callbacks (for receiving and processing topic data), timer callbacks, service callbacks (for handling service requests on the server side), and various callbacks used in action servers and clients. In ROS 2, executors are responsible for managing, scheduling, and invoking these callbacks on behalf of the user. These executors are implemented in the rclcpp library as classes such as the SingleThreadedExecutor and MultiThreadedExecutor. As a result, executors themselves lie within our trusted computing base (TCB).
+
+At first glance, this appears problematic because callbacks are invoked from within the executor. However, in practice, the functions that actually invoke callbacks in rclcpp are implemented almost entirely as template functions. These template functions are defined in header files and are instantiated at compile time. Consequently, their generated code becomes part of the application binary or the library that includes them, rather than remaining inside the rclcpp shared library. As a result, these functions reside in the untrusted domain. Here our wrapper library cannot intercept them because they are effectively statically linked.
+
+Importantly, this behavior does not introduce a security concern in our design. Since callback execution occurs in the untrusted domain, any system call issued directly from a callback will not pass through our wrapper and is therefore disallowed by default. Thus, all callbacks are treated as untrusted code. The only additional requirement is that, for each entry point from trusted rclcpp code into a template-instantiated function, we must explicitly unset the counter before the call and restore it after returning. In the remainder of this section, we analyze each category of callbacks in detail, describing the specific functions responsible for callback invocation and the corresponding execution flow. Therefore, we only need to add mpk gates the entry and exit points of these functions in the rclcpp code. This can be achieved straightforwardly either through binary rewriting or by using an LLVM pass to instrument the relevant call sites.
+
+Subscription Callback Flow
+In ROS 2, all subscription callbacks follow a common internal execution path before control reaches user-defined code, independent of how the callback is written. When a new message is delivered from the DDS middleware, the executor first invokes execute_subscription(). This function then calls handle_message().
+
+Within handle_message(), execution is forwarded to a central function named dispatch(). The dispatch() function acts as a generic indirection layer: it determines the exact callback signature provided by the user (for example, callbacks accepting a shared pointer, reference, or unique pointer), performs the required message type conversions, and finally invokes the user-defined callback with the appropriate arguments.
+
+The function execute_subscription() is defined in the rclcpp library, whereas handle_message() and dispatch() are defined in rclcpp header files and are therefore instantiated as part of the application code. As a result, when execution transitions from execute_subscription() to handle_message(), control effectively moves from the trusted runtime into application-level (untrusted) code.
+
+Consequently, this transition represents a well-defined trust boundary. We can invoke mpk_exit_gate() immediately before transferring control to handle_message(), and subsequently invoke mpk_entry_gate() after the handle_message() returns, thereby re-entering the trusted domain.
+
+Timer Callback Flow
+
+In ROS 2, all timer callbacks are executed through a single common path. When a timer expires, the executor first calls execute_any_executable(). This function then calls execute_callback(), which finally calls execute_callback_delegate().
+
+The function execute_callback_delegate() is a template function that is used for all types of user-defined timer callbacks, such as lambdas, std::bind expressions, or normal function pointers. Its job is to finally invoke the user’s timer callback.
+
+Both execute_callback() and execute_callback_delegate() are defined in rclcpp header files. Because they are header-defined, their code is compiled directly into the application binary. In contrast, execute_any_executable() is part of the rclcpp shared library.
+
+Therefore, when execution moves from execute_any_executable() to execute_callback(), control transitions from the trusted rclcpp runtime into application-level (untrusted) code. This transition represents a clear trust boundary.
+
+As a result, execute_any_executable() is the correct place to enforce isolation. We can call mpk_exit_gate() just before invoking execute_callback() to leave the trusted domain, and call mpk_entry_gate() after the callback returns to safely re-enter the trusted domain.
+
+
+Service Callback
+In ROS 2, service callbacks are responsible for handling incoming requests from clients and producing the corresponding responses. When a client invokes a service, the request is delivered to the server node through the ROS middleware (DDS). The executor detects the incoming request and initiates callback execution on the server side.
+
+Regardless of the specific callback signature used by the application, all service callbacks follow a common internal execution path that is centered around the dispatch() function of the AnyServiceCallback class.The executor invokes Executor::execute_service(), which then calls Service::handle_request(). The handle_request() function subsequently forwards execution to AnyServiceCallback::dispatch().
+
+Inside dispatch(), ROS 2 allocates and initializes an empty response object and then invokes the stored std::function corresponding to the user-defined service callback. The user callback processes the request and populates the response object. After the user callback returns, dispatch() ensures that the completed response is sent back to the client via the middleware.
+
+Because dispatch()  nad handle_service() is defined in rclcpp headers and instantiated as part of the application binary, while execute_service() resides in the rclcpp shared library, the transition from execute_service() to handle_request() represents a clear boundary where execution moves from the trusted runtime into application-level (untrusted) code where we can add our mpk gate logic.
+
+Client Callback
+In ROS 2, client callbacks are user-defined functions that handle responses returned by a service server after a client issues a request. These callbacks allow the client node to process the server’s reply, such as reading the returned data or triggering follow-up computation once the service call completes.
+
+When a service response arrives from the DDS middleware, the executor is the first component to observe it. The executor invokes Executor::execute_client(), which retrieves the response from the middleware and forwards it to Client::handle_response(). Inside handle_response(), ROS 2 determines whether the original request was synchronous or asynchronous.
+
+For synchronous service calls, the response is stored in a std::promise, which unblocks the corresponding future.get() call. For asynchronous service calls, handle_response() sets the response and then invokes the user-provided callback function, such as BenchmarkNode::handle_response().
+
+Importantly, Executor::execute_client() is implemented in the rclcpp shared library and is part of the trusted runtime, whereas Client::handle_response() and the subsequent user callback are defined in rclcpp headers and are instantiated as part of the application binary. Therefore, the transition from execute_client() to handle_response() represents a clear shift from trusted runtime code to application-level (untrusted) code.
+
+As a result, this transition is a natural enforcement point for isolation. We can invoke mpk_exit_gate() just before execute_client() transfers control to handle_response(), and invoke mpk_entry_gate() after the client callback returns, thereby safely re-entering the trusted domain.
+

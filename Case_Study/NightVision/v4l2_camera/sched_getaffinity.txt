@@ -1,0 +1,64 @@
+sched_getaffinity called
+  pid: 686897
+  cpusetsize: 128
+  mask: 0x77c35001b590
+sched_getaffinity called
+  pid: 0
+  cpusetsize: 128
+  mask: 0x77c35002d410
+sched_getaffinity called
+  pid: 0
+  cpusetsize: 128
+  mask: 0x77c35002d410
+sched_getaffinity called
+  pid: 0
+  cpusetsize: 128
+  mask: 0x77c354000b70
+sched_getaffinity called
+  pid: 0
+  cpusetsize: 128
+  mask: 0x77c348000b70
+sched_getaffinity called
+  pid: 0
+  cpusetsize: 128
+  mask: 0x77c354000b70
+sched_getaffinity called
+  pid: 0
+  cpusetsize: 128
+  mask: 0x77c34c000b70
+sched_getaffinity called
+  pid: 0
+  cpusetsize: 128
+  mask: 0x77c348000b70
+sched_getaffinity called
+  pid: 0
+  cpusetsize: 128
+  mask: 0x77c340000b70
+sched_getaffinity called
+  pid: 0
+  cpusetsize: 128
+  mask: 0x77c338000b70
+sched_getaffinity called
+  pid: 0
+  cpusetsize: 128
+  mask: 0x77c33c000b70
+sched_getaffinity called
+  pid: 0
+  cpusetsize: 128
+  mask: 0x77c34c000b70
+sched_getaffinity called
+  pid: 0
+  cpusetsize: 128
+  mask: 0x77c340000b70
+sched_getaffinity called
+  pid: 0
+  cpusetsize: 128
+  mask: 0x77c330000b70
+sched_getaffinity called
+  pid: 0
+  cpusetsize: 128
+  mask: 0x77c338000b70
+sched_getaffinity called
+  pid: 0
+  cpusetsize: 128
+  mask: 0x77c33c000b70

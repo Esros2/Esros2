@@ -1,0 +1,60 @@
+pthread_detach called
+  thread: 129427417581120
+pthread_detach called
+  thread: 129427413382720
+pthread_detach called
+  thread: 129427400787520
+pthread_detach called
+  thread: 129427425977920
+pthread_detach called
+  thread: 129427404985920
+pthread_detach called
+  thread: 129427430176320
+pthread_detach called
+  thread: 129427409184320
+pthread_detach called
+  thread: 129428046702144
+pthread_detach called
+  thread: 129427421779520
+pthread_detach called
+  thread: 129428055098944
+pthread_detach called
+  thread: 129428042503744
+pthread_detach called
+  thread: 129428059297344
+pthread_detach called
+  thread: 129428050900544
+pthread_detach called
+  thread: 129428067694144
+pthread_detach called
+  thread: 129428063495744
+pthread_detach called
+  thread: 124070423123520
+pthread_detach called
+  thread: 124070427321920
+pthread_detach called
+  thread: 124070414726720
+pthread_detach called
+  thread: 124070431520320
+pthread_detach called
+  thread: 124070410528320
+pthread_detach called
+  thread: 124070439917120
+pthread_detach called
+  thread: 124070418925120
+pthread_detach called
+  thread: 124070448313920
+pthread_detach called
+  thread: 124070435718720
+pthread_detach called
+  thread: 124070456710720
+pthread_detach called
+  thread: 124070444115520
+pthread_detach called
+  thread: 124070460909120
+pthread_detach called
+  thread: 124070452512320
+pthread_detach called
+  thread: 124070941161024
+pthread_detach called
+  thread: 124070465107520

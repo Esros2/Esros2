@@ -1,0 +1,216 @@
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8a00
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8910
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8910
+  size: 100
+  stream: 0x77c350000df0
+fgets called
+  buffer: 0x77c365fe8910
+  size: 100
+  stream: 0x77c350000df0

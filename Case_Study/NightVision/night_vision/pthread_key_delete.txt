@@ -1,0 +1,24 @@
+pthread_key_delete called
+  key: 3
+  return: 0
+pthread_key_delete called
+  key: 2
+  return: 0
+pthread_key_delete called
+  key: 1
+  return: 0
+pthread_key_delete called
+  key: 0
+  return: 0
+pthread_key_delete called
+  key: 3
+  return: 0
+pthread_key_delete called
+  key: 2
+  return: 0
+pthread_key_delete called
+  key: 1
+  return: 0
+pthread_key_delete called
+  key: 0
+  return: 0

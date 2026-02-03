@@ -1,0 +1,4 @@
+strdup: s=0x77c3fdbbf171 "!"
+strdup: s=0x77c3fdbbf171 "!"
+strdup: s=0x77c3fdbbf170 "!!"
+strdup: s=0x77c3fdbbf173 "tag:yaml.org,2002:"

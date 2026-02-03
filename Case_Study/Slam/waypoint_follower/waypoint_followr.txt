@@ -1,0 +1,7 @@
+fputs
+fputc
+fopen
+fclose
+fwrite
+free
+syscall

@@ -1,0 +1,24 @@
+from fopen
+name : /home/shivrajj/.ros/log/night_vision_node_703398_1769603093584.log
+mode : ab
+from fopen
+name : /proc/meminfo
+mode : r
+from fopen
+name : /proc/sys/vm/nr_hugepages
+mode : r
+from fopen
+name : /sys/kernel/mm/transparent_hugepage/enabled
+mode : r
+from fopen
+name : /home/shivrajj/.ros/log/night_vision_node_703759_1769603458752.log
+mode : ab
+from fopen
+name : /proc/meminfo
+mode : r
+from fopen
+name : /proc/sys/vm/nr_hugepages
+mode : r
+from fopen
+name : /sys/kernel/mm/transparent_hugepage/enabled
+mode : r

@@ -1,0 +1,89 @@
+dlclose
+dlsym
+fclose
+fflush
+fgets
+fopen
+fopen64
+fwrite
+mmap
+munmap
+open
+pthread_cond_broadcast
+pthread_cond_destroy
+pthread_cond_signal
+pthread_cond_wait
+pthread_create
+pthread_detach
+pthread_getspecific
+pthread_join
+pthread_key_create
+pthread_key_delete
+pthread_mutex_destroy
+pthread_mutex_init
+pthread_mutex_lock
+pthread_mutex_unlock
+pthread_mutexattr_destroy
+pthread_mutexattr_init
+pthread_mutexattr_settype
+pthread_once
+pthread_setspecific
+reaad
+sched_getaffinity
+sched_yield
+sched_getaffinity
+strdup
+syscall
+dlopen
+ioctl
+
+
+
+=== Category counts ===
+Process Control: 29
+Communication: 17
+File management: 14
+Information maintenance: 11
+Device management: 8
+Protection: 1
+
+=== Per-function categories ===
+dlclose: File management, Process Control
+dlsym: File management, Process Control
+fclose: File management
+fflush: Communication, File management
+fgets: Communication, Device management, File management
+fopen: Communication, Device management, File management
+fopen64: Communication, Device management, File management
+fwrite: Communication, Device management, File management
+mmap: File management, Process Control
+munmap: Process Control
+open: Device management, File management
+pthread_cond_broadcast: Communication, Process Control
+pthread_cond_destroy: Communication, Process Control
+pthread_cond_signal: Communication, Process Control
+pthread_cond_wait: Communication, Process Control
+pthread_create: Communication, Process Control
+pthread_detach: Process Control
+pthread_getspecific: Information maintenance, Process Control
+pthread_join: Communication, Process Control
+pthread_key_create: Communication, Process Control
+pthread_key_delete: Communication, Process Control
+pthread_mutex_destroy: Information maintenance, Process Control
+pthread_mutex_init: Information maintenance, Process Control
+pthread_mutex_lock: Information maintenance, Process Control
+pthread_mutex_unlock: Information maintenance, Process Control
+pthread_mutexattr_destroy: Information maintenance, Process Control
+pthread_mutexattr_init: Information maintenance, Process Control
+pthread_mutexattr_settype: Information maintenance, Process Control
+pthread_once: Communication, Process Control
+pthread_setspecific: Process Control
+read: Communication, Device management, File management
+sched_getaffinity: Information maintenance, Process Control
+sched_yield: Process Control
+strdup: Process Control
+syscall: Communication, Device management, File management, Information maintenance, Process Control, Protection
+dlopen: File management, Process Control
+ioctl: Communication, Device management, File management
+
+

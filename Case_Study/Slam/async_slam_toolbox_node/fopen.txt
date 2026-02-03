@@ -1,0 +1,12 @@
+from fopen
+name : /home/shivrajj/.ros/log/async_slam_toolbox_node_2624799_1757000275261.log
+mode : ab
+from fopen
+name : /home/shivrajj/params/DEFAULT_FASTRTPS_PROFILES.xml
+mode : rb
+from fopen
+name : /opt/ros/humble/share/slam_toolbox/solver_plugins.xml
+mode : rb
+from fopen
+name : /opt/ros/humble/share/slam_toolbox/package.xml
+mode : rb

@@ -1,0 +1,4 @@
+read(fd=16, count=8191) -> /opt/ros/humble/share/ament_index/resource_index/packages/slam_toolbox
+read(fd=16, count=8191) -> /opt/ros/humble/share/ament_index/resource_index/slam_toolbox__pluginlib__plugin/slam_toolbox
+read(fd=16, count=8191) -> /opt/ros/humble/share/ament_index/resource_index/slam_toolbox__pluginlib__plugin/slam_toolbox
+read(fd=16, count=8191) -> /opt/ros/humble/share/ament_index/resource_index/packages/slam_toolbox

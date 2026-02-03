@@ -1,0 +1,192 @@
+pthread_join called
+  thread: 129428076086848
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 129428193527360
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 129428185134656
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 129428101264960
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 129428092872256
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 129428201920064
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 129428084479552
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 129428218705472
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 129428210312768
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 129430395631168
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 129430387238464
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 129430244554304
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 129430099850816
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 129429955147328
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 129429810443840
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 129429665740352
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 129429521036864
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 129429376333376
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 129429231629888
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 129429086926400
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 129428942222912
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 129428797519424
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 129428652815936
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 129428508112448
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 124070953711168
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 124070995674688
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 124070987281984
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 124070978889280
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 124070970496576
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 124071004067392
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 124070962103872
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 124071020852800
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 124071012460096
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 124073199593024
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 124073191200320
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 124073046701632
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 124072901998144
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 124072757294656
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 124072612591168
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 124072467887680
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 124072323184192
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 124072178480704
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 124072033777216
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 124071889073728
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 124071744370240
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 124071599666752
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 124071454963264
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 124071310259776
+  retval ptr: (nil)
+  return: 0

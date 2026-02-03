@@ -1,0 +1,6 @@
+from fopen
+name : /home/shivrajj/.ros/log/bt_navigator_2257704_1756980297011.log
+mode : ab
+from fopen
+name : /home/shivrajj/params/DEFAULT_FASTRTPS_PROFILES.xml
+mode : rb

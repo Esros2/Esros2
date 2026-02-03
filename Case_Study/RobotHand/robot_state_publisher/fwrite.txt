@@ -1,0 +1,1 @@
+from fwrite: FILE*=0x5c0058bee3a0, fd=3, path=/home/shivrajj/.ros/log/robot_state_publisher_4180_1757098129102.log

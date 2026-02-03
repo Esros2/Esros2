@@ -1,0 +1,10 @@
+function , total rules
+fclose,270
+fgetc,108
+fopen,110
+fopen64,58
+fread,109
+fseeko64,108
+ftello64,108
+fwrite,1
+syscall,1

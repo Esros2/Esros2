@@ -1,0 +1,27 @@
+dlsym called
+  handle: 0x77c3fe82f2e0
+  symbol: scalable_malloc
+dlsym called
+  handle: 0x77c350008990
+  symbol: scalable_malloc
+dlsym called
+  handle: 0x77c350008990
+  symbol: scalable_free
+dlsym called
+  handle: 0x77c350008990
+  symbol: scalable_aligned_malloc
+dlsym called
+  handle: 0x77c350008990
+  symbol: scalable_aligned_free
+dlsym called
+  handle: 0x77c3fe82f2e0
+  symbol: __RML_open_factory
+dlsym called
+  handle: 0x77c3fe82f2e0
+  symbol: kmp_set_thread_affinity_mask_initial
+dlsym called
+  handle: 0x77c3fe82f2e0
+  symbol: __cilkrts_watch_stack
+dlsym called
+  handle: 0x77c3fe82f2e0
+  symbol: __cilkrts_watch_stack

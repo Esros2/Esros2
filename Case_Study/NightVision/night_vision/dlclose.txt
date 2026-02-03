@@ -1,0 +1,72 @@
+dlclose called
+  handle : 0x75b76a9ad2e0
+  object : (anonymous)
+  return : 0
+  result : library unloaded (refcount reached zero)
+-----------------------------
+dlclose called
+  handle : 0x75b76a9ad2e0
+  object : (anonymous)
+  return : 0
+  result : library unloaded (refcount reached zero)
+-----------------------------
+dlclose called
+  handle : 0x75b76a9ad2e0
+  object : (anonymous)
+  return : 0
+  result : library unloaded (refcount reached zero)
+-----------------------------
+dlclose called
+  handle : 0x75b76a9ad2e0
+  object : (anonymous)
+  return : 0
+  result : library unloaded (refcount reached zero)
+-----------------------------
+dlclose called
+  handle : 0x75b76a9ad2e0
+  object : (anonymous)
+  return : 0
+  result : library unloaded (refcount reached zero)
+-----------------------------
+dlclose called
+  handle : 0x5edbda7a0730
+  object : /lib/x86_64-linux-gnu/libtbbmalloc.so.2
+  return : 0
+  result : library unloaded (refcount reached zero)
+-----------------------------
+dlclose called
+  handle : 0x70d818d702e0
+  object : (anonymous)
+  return : 0
+  result : library unloaded (refcount reached zero)
+-----------------------------
+dlclose called
+  handle : 0x70d818d702e0
+  object : (anonymous)
+  return : 0
+  result : library unloaded (refcount reached zero)
+-----------------------------
+dlclose called
+  handle : 0x70d818d702e0
+  object : (anonymous)
+  return : 0
+  result : library unloaded (refcount reached zero)
+-----------------------------
+dlclose called
+  handle : 0x70d818d702e0
+  object : (anonymous)
+  return : 0
+  result : library unloaded (refcount reached zero)
+-----------------------------
+dlclose called
+  handle : 0x70d818d702e0
+  object : (anonymous)
+  return : 0
+  result : library unloaded (refcount reached zero)
+-----------------------------
+dlclose called
+  handle : 0x5d21e8436860
+  object : /lib/x86_64-linux-gnu/libtbbmalloc.so.2
+  return : 0
+  result : library unloaded (refcount reached zero)
+-----------------------------

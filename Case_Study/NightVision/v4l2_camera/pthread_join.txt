@@ -1,0 +1,100 @@
+pthread_join called
+  thread: 131681260402240
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 131681113585216
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 131681121977920
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 131681235224128
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 131681226831424
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 131681147156032
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 131681138763328
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 131681243616832
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 131681130370624
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 131681252009536
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 131683437676096
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 131683429283392
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 131683286251072
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 131683141547584
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 131682996844096
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 131682852140608
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 131682707437120
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 131682562733632
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 131682418030144
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 131682273326656
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 131682128623168
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 131681983919680
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 131681839216192
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 131681694512704
+  retval ptr: (nil)
+  return: 0
+pthread_join called
+  thread: 131681549809216
+  retval ptr: (nil)
+  return: 0

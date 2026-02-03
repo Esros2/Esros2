@@ -1,0 +1,36 @@
+dlclose called
+  handle : 0x77c3fe82f2e0
+  object : (anonymous)
+  return : 0
+  result : library unloaded (refcount reached zero)
+-----------------------------
+dlclose called
+  handle : 0x77c3fe82f2e0
+  object : (anonymous)
+  return : 0
+  result : library unloaded (refcount reached zero)
+-----------------------------
+dlclose called
+  handle : 0x77c3fe82f2e0
+  object : (anonymous)
+  return : 0
+  result : library unloaded (refcount reached zero)
+-----------------------------
+dlclose called
+  handle : 0x77c3fe82f2e0
+  object : (anonymous)
+  return : 0
+  result : library unloaded (refcount reached zero)
+-----------------------------
+dlclose called
+  handle : 0x77c3fe82f2e0
+  object : (anonymous)
+  return : 0
+  result : library unloaded (refcount reached zero)
+-----------------------------
+dlclose called
+  handle : 0x77c350008990
+  object : /lib/x86_64-linux-gnu/libtbbmalloc.so.2
+  return : 0
+  result : library unloaded (refcount reached zero)
+-----------------------------

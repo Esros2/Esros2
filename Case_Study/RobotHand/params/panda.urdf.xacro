@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="panda">
+  <xacro:arg name="ros2_control_hardware_type" default="mock_components"/>
+
+  <!-- Base and links (very simplified) -->
+  <link name="panda_link0"/>
+  <link name="panda_link1"/>
+  <link name="panda_link2"/>
+  <link name="panda_link3"/>
+  <link name="panda_link4"/>
+  <link name="panda_link5"/>
+  <link name="panda_link6"/>
+  <link name="panda_link7"/>
+  <link name="panda_hand"/>
+
+  <!-- 7 arm joints (revolute), 1 fixed to hand base for simplicity -->
+  <joint name="panda_joint1" type="continuous"><parent link="panda_link0"/><child link="panda_link1"/></joint>
+  <joint name="panda_joint2" type="continuous"><parent link="panda_link1"/><child link="panda_link2"/></joint>
+  <joint name="panda_joint3" type="continuous"><parent link="panda_link2"/><child link="panda_link3"/></joint>
+  <joint name="panda_joint4" type="continuous"><parent link="panda_link3"/><child link="panda_link4"/></joint>
+  <joint name="panda_joint5" type="continuous"><parent link="panda_link4"/><child link="panda_link5"/></joint>
+  <joint name="panda_joint6" type="continuous"><parent link="panda_link5"/><child link="panda_link6"/></joint>
+  <joint name="panda_joint7" type="continuous"><parent link="panda_link6"/><child link="panda_link7"/></joint>
+
+  <joint name="panda_hand_joint" type="fixed"><parent link="panda_link7"/><child link="panda_hand"/></joint>
+
+  <!-- Simple fingers -->
+  <link name="panda_leftfinger"/>
+  <link name="panda_rightfinger"/>
+  <joint name="panda_finger_joint1" type="prismatic">
+    <parent link="panda_hand"/>
+    <child link="panda_leftfinger"/>
+    <limit lower="0.0" upper="0.04" effort="20" velocity="0.2"/>
+  </joint>
+  <joint name="panda_finger_joint2" type="prismatic">
+    <parent link="panda_hand"/>
+    <child link="panda_rightfinger"/>
+    <limit lower="0.0" upper="0.04" effort="20" velocity="0.2"/>
+  </joint>
+
+  <!-- ros2_control: mock hardware for all joints -->
+  <ros2_control name="PandaSystem" type="system">
+    <hardware>
+      <plugin>mock_components/GenericSystem</plugin>
+      <param name="simulate_sensor_commands">true</param>
+      <param name="actuator_state_interface">position</param>
+    </hardware>
+
+    <!-- Arm joints -->
+    <joint name="panda_joint1">
+      <command_interface name="position"/>
+      <state_interface name="position"/>
+    </joint>
+    <joint name="panda_joint2">
+      <command_interface name="position"/>
+      <state_interface name="position"/>
+    </joint>
+    <joint name="panda_joint3">
+      <command_interface name="position"/>
+      <state_interface name="position"/>
+    </joint>
+    <joint name="panda_joint4">
+      <command_interface name="position"/>
+      <state_interface name="position"/>
+    </joint>
+    <joint name="panda_joint5">
+      <command_interface name="position"/>
+      <state_interface name="position"/>
+    </joint>
+    <joint name="panda_joint6">
+      <command_interface name="position"/>
+      <state_interface name="position"/>
+    </joint>
+    <joint name="panda_joint7">
+      <command_interface name="position"/>
+      <state_interface name="position"/>
+    </joint>
+
+    <!-- Gripper -->
+    <joint name="panda_finger_joint1">
+      <command_interface name="position"/>
+      <state_interface name="position"/>
+    </joint>
+    <joint name="panda_finger_joint2">
+      <command_interface name="position"/>
+      <state_interface name="position"/>
+    </joint>
+  </ros2_control>
+</robot>

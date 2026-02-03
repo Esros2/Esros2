@@ -1,0 +1,1 @@
+from open: pathname=/dev/video0, flags=0x2

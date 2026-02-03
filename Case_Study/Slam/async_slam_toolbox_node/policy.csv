@@ -1,0 +1,12 @@
+function , total rules
+fcolse,6
+fflush,2
+fgetc,2
+fopen,4
+fopen64,2
+fread,2
+fseeko64,2
+ftello64,2
+fwrite,1
+read,2
+syscall,1

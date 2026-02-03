@@ -1,0 +1,10 @@
+from fclose: FILE*=0x5edbda76c720, fd=16, path=/proc/meminfo
+from fclose: FILE*=0x5edbda76c720, fd=16, path=/proc/sys/vm/nr_hugepages
+from fclose: FILE*=0x5edbda76c720, fd=16, path=/sys/kernel/mm/transparent_hugepage/enabled
+from fclose: FILE*=0x5edbda76c720, fd=21, path=/sys/devices/system/cpu/online
+from fclose: FILE*=0x5edbd9ee6720, fd=3, path=/home/shivrajj/.ros/log/night_vision_node_703398_1769603093584.log
+from fclose: FILE*=0x5d21e8401720, fd=16, path=/proc/meminfo
+from fclose: FILE*=0x5d21e8401720, fd=16, path=/proc/sys/vm/nr_hugepages
+from fclose: FILE*=0x5d21e8401720, fd=16, path=/sys/kernel/mm/transparent_hugepage/enabled
+from fclose: FILE*=0x5d21e8401720, fd=21, path=/sys/devices/system/cpu/online
+from fclose: FILE*=0x5d21e7b7b720, fd=3, path=/home/shivrajj/.ros/log/night_vision_node_703759_1769603458752.log

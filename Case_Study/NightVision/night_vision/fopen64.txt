@@ -1,0 +1,18 @@
+from fopen64
+name : /sys/fs/cgroup/cpuset/cpuset.cpus
+mode : r
+from fopen64
+name : /sys/fs/cgroup/cpu/cpu.cfs_quota_us
+mode : rb
+from fopen64
+name : /sys/devices/system/cpu/online
+mode : r
+from fopen64
+name : /sys/fs/cgroup/cpuset/cpuset.cpus
+mode : r
+from fopen64
+name : /sys/fs/cgroup/cpu/cpu.cfs_quota_us
+mode : rb
+from fopen64
+name : /sys/devices/system/cpu/online
+mode : r

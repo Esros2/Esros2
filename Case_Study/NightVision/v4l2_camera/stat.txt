@@ -1,0 +1,7 @@
+stat called
+  pathname: /home/shivrajj/.ros/log
+  statbuf: 0x7fffd8efd690
+  return: 0
+  mode: 40775
+  size: 516096
+  inode: 14456215

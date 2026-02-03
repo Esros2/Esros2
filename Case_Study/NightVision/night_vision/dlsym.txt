@@ -1,0 +1,54 @@
+dlsym called
+  handle: 0x75b76a9ad2e0
+  symbol: scalable_malloc
+dlsym called
+  handle: 0x5edbda7a0730
+  symbol: scalable_malloc
+dlsym called
+  handle: 0x5edbda7a0730
+  symbol: scalable_free
+dlsym called
+  handle: 0x5edbda7a0730
+  symbol: scalable_aligned_malloc
+dlsym called
+  handle: 0x5edbda7a0730
+  symbol: scalable_aligned_free
+dlsym called
+  handle: 0x75b76a9ad2e0
+  symbol: __RML_open_factory
+dlsym called
+  handle: 0x75b76a9ad2e0
+  symbol: kmp_set_thread_affinity_mask_initial
+dlsym called
+  handle: 0x75b76a9ad2e0
+  symbol: __cilkrts_watch_stack
+dlsym called
+  handle: 0x75b76a9ad2e0
+  symbol: __cilkrts_watch_stack
+dlsym called
+  handle: 0x70d818d702e0
+  symbol: scalable_malloc
+dlsym called
+  handle: 0x5d21e8436860
+  symbol: scalable_malloc
+dlsym called
+  handle: 0x5d21e8436860
+  symbol: scalable_free
+dlsym called
+  handle: 0x5d21e8436860
+  symbol: scalable_aligned_malloc
+dlsym called
+  handle: 0x5d21e8436860
+  symbol: scalable_aligned_free
+dlsym called
+  handle: 0x70d818d702e0
+  symbol: __RML_open_factory
+dlsym called
+  handle: 0x70d818d702e0
+  symbol: kmp_set_thread_affinity_mask_initial
+dlsym called
+  handle: 0x70d818d702e0
+  symbol: __cilkrts_watch_stack
+dlsym called
+  handle: 0x70d818d702e0
+  symbol: __cilkrts_watch_stack

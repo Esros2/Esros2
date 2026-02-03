@@ -1,0 +1,10 @@
+from fwrite: FILE*=0x5e4b0d030620, fd=3, path=/home/shivrajj/.ros/log/async_slam_toolbox_node_2624799_1757000275261.log
+from fwrite: FILE*=0x5e4b0d030620, fd=3, path=/home/shivrajj/.ros/log/async_slam_toolbox_node_2624799_1757000275261.log
+from fwrite: FILE*=0x5e4b0d030620, fd=3, path=/home/shivrajj/.ros/log/async_slam_toolbox_node_2624799_1757000275261.log
+from fwrite: FILE*=0x5e4b0d030620, fd=3, path=/home/shivrajj/.ros/log/async_slam_toolbox_node_2624799_1757000275261.log
+from fwrite: FILE*=0x7bd68001b780, fd=1, path=/home/shivrajj/params/a.txt
+from fwrite: FILE*=0x5e4b0d030620, fd=3, path=/home/shivrajj/.ros/log/async_slam_toolbox_node_2624799_1757000275261.log
+from fwrite: FILE*=0x7bd68001b780, fd=1, path=/home/shivrajj/params/a.txt
+from fwrite: FILE*=0x7bd68001b780, fd=1, path=/home/shivrajj/params/a.txt
+from fwrite: FILE*=0x7bd68001b780, fd=1, path=/home/shivrajj/params/a.txt
+from fwrite: FILE*=0x5e4b0d030620, fd=3, path=/home/shivrajj/.ros/log/async_slam_toolbox_node_2624799_1757000275261.log

@@ -1,0 +1,3 @@
+pthread_key_create called
+  key: 0x77c3c46590cc
+  destructor: 0x77c3c462cf80

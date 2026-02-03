@@ -1,0 +1,30 @@
+pthread_detach called
+  thread: 131680580896320
+pthread_detach called
+  thread: 131680589293120
+pthread_detach called
+  thread: 131680568301120
+pthread_detach called
+  thread: 131680593491520
+pthread_detach called
+  thread: 131680572499520
+pthread_detach called
+  thread: 131680597689920
+pthread_detach called
+  thread: 131680576697920
+pthread_detach called
+  thread: 131680601888320
+pthread_detach called
+  thread: 131680585094720
+pthread_detach called
+  thread: 131681088423488
+pthread_detach called
+  thread: 131680606086720
+pthread_detach called
+  thread: 131681092621888
+pthread_detach called
+  thread: 131680610285120
+pthread_detach called
+  thread: 131681101018688
+pthread_detach called
+  thread: 131681096820288

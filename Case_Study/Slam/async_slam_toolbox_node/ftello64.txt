@@ -1,0 +1,4 @@
+From ftello64
+from ftello64: FILE*=0x5e4b0d303670, fd=16, path=/opt/ros/humble/share/slam_toolbox/solver_plugins.xml
+From ftello64
+from ftello64: FILE*=0x5e4b0d303670, fd=16, path=/opt/ros/humble/share/slam_toolbox/package.xml

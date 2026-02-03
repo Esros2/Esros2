@@ -1,0 +1,4 @@
+read(fd=16, count=8191) -> /opt/ros/humble/share/ament_index/resource_index/packages/compressed_image_transport
+read(fd=16, count=8191) -> /opt/ros/humble/share/ament_index/resource_index/packages/compressed_depth_image_transport
+read(fd=16, count=8191) -> /opt/ros/humble/share/ament_index/resource_index/packages/image_transport
+read(fd=16, count=8191) -> /opt/ros/humble/share/ament_index/resource_index/packages/theora_image_transport

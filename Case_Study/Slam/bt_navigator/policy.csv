@@ -1,0 +1,9 @@
+function , total rules
+fclose,5
+fflush,2
+fopen,2
+fopen64,3
+fread,1
+fwrite,1
+read,3
+syscall,1

@@ -1,0 +1,6 @@
+from fclose: FILE*=0x5c0058ee8aa0, fd=16, path=/opt/ros/humble/share/ament_index/resource_index/packages/urdf_parser_plugin
+from fclose: FILE*=0x5c0058ee8aa0, fd=16, path=/opt/ros/humble/share/ament_index/resource_index/urdf_parser_plugin__pluginlib__plugin/sdformat_urdf
+from fclose: FILE*=0x5c0058ee8aa0, fd=16, path=/opt/ros/humble/share/ament_index/resource_index/urdf_parser_plugin__pluginlib__plugin/urdf
+from fclose: FILE*=0x5c0058ee8aa0, fd=16, path=/opt/ros/humble/share/ament_index/resource_index/packages/sdformat_urdf
+from fclose: FILE*=0x5c0058ee8aa0, fd=16, path=/opt/ros/humble/share/ament_index/resource_index/packages/urdf
+from fclose: FILE*=0x5c0058bee3a0, fd=3, path=/home/shivrajj/.ros/log/robot_state_publisher_4180_1757098129102.log

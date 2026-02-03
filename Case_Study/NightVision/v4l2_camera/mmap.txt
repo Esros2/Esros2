@@ -1,0 +1,10 @@
+from mmap: addr=(nil), length=614400, prot=0x3, flags=0x1, fd=16 (/dev/video0), offset=0
+from mmap: addr=(nil), length=614400, prot=0x3, flags=0x1, fd=16 (/dev/video0), offset=32768
+from mmap: addr=(nil), length=614400, prot=0x3, flags=0x1, fd=16 (/dev/video0), offset=65536
+from mmap: addr=(nil), length=614400, prot=0x3, flags=0x1, fd=16 (/dev/video0), offset=98304
+from mmap: addr=(nil), length=327680, prot=0x3, flags=0x22, fd=-1 (N/A), offset=0
+from mmap: addr=(nil), length=2097152, prot=0x3, flags=0x22, fd=-1 (N/A), offset=0
+from mmap: addr=(nil), length=1052672, prot=0x3, flags=0x22, fd=-1 (N/A), offset=0
+from mmap: addr=(nil), length=1052672, prot=0x3, flags=0x22, fd=-1 (N/A), offset=0
+from mmap: addr=(nil), length=1052672, prot=0x3, flags=0x22, fd=-1 (N/A), offset=0
+from mmap: addr=(nil), length=1052672, prot=0x3, flags=0x22, fd=-1 (N/A), offset=0

@@ -1,0 +1,6 @@
+function , total rules
+fclose,4
+fopen,1
+fopen64,5
+fwrite,1
+read,5

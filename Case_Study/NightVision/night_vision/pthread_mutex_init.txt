@@ -1,0 +1,12 @@
+pthread_mutex_init called
+  mutex: 0x75b741e28cd8
+  attr: 0x7fff87642a84
+  return: 0
+  result: initialized successfully
+-------------------------
+pthread_mutex_init called
+  mutex: 0x70d7f8a41cd8
+  attr: 0x7fff79fecd34
+  return: 0
+  result: initialized successfully
+-------------------------

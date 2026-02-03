@@ -1,0 +1,6 @@
+from fclose: FILE*=0x5e4b0d030620, fd=3, path=/home/shivrajj/.ros/log/async_slam_toolbox_node_2624799_1757000275261.log
+from fclose: FILE*=0x5e4b0d303670, fd=16, path=/opt/ros/humble/share/ament_index/resource_index/packages/slam_toolbox
+from fclose: FILE*=0x5e4b0d303670, fd=16, path=/opt/ros/humble/share/ament_index/resource_index/slam_toolbox__pluginlib__plugin/slam_toolbox
+from fclose: FILE*=0x5e4b0d303670, fd=16, path=/opt/ros/humble/share/slam_toolbox/package.xml
+from fclose: FILE*=0x5e4b0d303670, fd=16, path=/opt/ros/humble/share/slam_toolbox/solver_plugins.xml
+from fclose: FILE*=0x5e4b0d4e86f0, fd=16, path=/opt/ros/humble/share/ament_index/resource_index/packages/slam_toolbox

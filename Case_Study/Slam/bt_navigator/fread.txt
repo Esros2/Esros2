@@ -1,0 +1,2 @@
+from fread: FILE*=0x654e60fdb590, fd=3, path=/opt/ros/humble/share/nav2_bringup/params/nav2_params.yaml
+from fread: FILE*=0x654e60fdb590, fd=3, path=/opt/ros/humble/share/nav2_bringup/params/nav2_params.yaml

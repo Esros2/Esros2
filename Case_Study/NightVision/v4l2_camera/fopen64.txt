@@ -1,0 +1,15 @@
+from fopen64
+name : /opt/ros/humble/share/ament_index/resource_index/packages/compressed_image_transport
+mode : r
+from fopen64
+name : /opt/ros/humble/share/ament_index/resource_index/packages/compressed_depth_image_transport
+mode : r
+from fopen64
+name : /opt/ros/humble/share/ament_index/resource_index/packages/image_transport
+mode : r
+from fopen64
+name : /opt/ros/humble/share/ament_index/resource_index/packages/theora_image_transport
+mode : r
+from fopen64
+name : /home/shivrajj/.ros/camera_info/usb_camera:_usb_camera.yaml
+mode : r
